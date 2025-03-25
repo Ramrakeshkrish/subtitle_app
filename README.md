@@ -85,12 +85,7 @@ streamlit run app.py
 | `ChromaDB not found` | Delete `chroma_db` folder & restart |
 | `CUDA Not Available` | Use CPU by setting `DEVICE="cpu"` |
 
----
 
-## **📌 Contributors**
-👨‍💻 **Your Name** – *Lead Developer*  
-📧 your.email@example.com  
-🔗 [GitHub Profile](https://github.com/yourusername)  
 
 ---
 
